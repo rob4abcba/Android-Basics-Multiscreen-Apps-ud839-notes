@@ -4,7 +4,7 @@
 - [L1.2 Course Map](
 - [L1.3 Nanodegree Support Resources[
 - [L1.4 Quiz: Import an Existing Project](L1.4_Quiz-Import-an-Existing-Project.md)
-- [L1.5 Access Your Career Portal
+- [L1.5 Checking the build.gradle file](L1.5_Checking-the-build.gradle-file.md)
 - [L1.6 Your Udacity Profile
 
 ## Lesson2 Arrays, Lists, Loops, & Custom Classes
