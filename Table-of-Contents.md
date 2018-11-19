@@ -5,7 +5,7 @@
 - [L1.3 Nanodegree Support Resources[
 - [L1.4 Quiz: Import an Existing Project](L1.4_Quiz-Import-an-Existing-Project.md)
 - [L1.5 Checking the build.gradle file](L1.5_Checking-the-build.gradle-file.md)
-- [L1.6 Your Udacity Profile
+- [L1.6 Quiz: Read MainActivity.java file](L1.6_Quiz-Read-MainActivity.java-file.md)
 
 ## Lesson2 Arrays, Lists, Loops, & Custom Classes
 - [L2.1 Introduction](L2.1_Introduction.md)
