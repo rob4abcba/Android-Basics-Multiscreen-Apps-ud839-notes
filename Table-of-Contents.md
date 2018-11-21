@@ -17,7 +17,7 @@
 - [L1.15 Quiz: Event Listeners in Android](L1.15_Quiz-Event-Listeners-in-Android.md)
 - [L1.16 How to Create an Event Listenerd](L1.16_How-to-Create-an-Event-Listener.md)
 - [L1.17 Quiz: Use OnClickListeners For All Categories](L1.17_Use-OnClickListeners-For-All-Categories.md)
-- [L1.18 Quiz: Event Listeners in Android](L1.18_Quiz-Event-Listeners-in-Android.md)
+- [L1.18 OnClickListener vs onClick](L1.18_OnClickListener-vs-onClick.md)
 - [L1.19 Quiz: Event Listeners in Android](L1.19_Quiz-Event-Listeners-in-Android.md)
 - [L1.20 Quiz: Event Listeners in Android](L1.20_Quiz-Event-Listeners-in-Android.md)
 
