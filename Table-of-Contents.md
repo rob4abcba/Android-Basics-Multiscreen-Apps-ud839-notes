@@ -30,3 +30,5 @@
 - [L2.1 Introduction](L2.1_Introduction.md)
 - [L2.2 Introduction](L2.1_Introduction.md)
 - [L2.3 Introduction](L2.1_Introduction.md)
+- [L2.4 Introduction](L2.1_Introduction.md)
+- [L2.5 Quiz: Verify Array Elements with Log Messages](L2.5_Quiz-Verify-Array-Elements-with-Log-Messages.md)
