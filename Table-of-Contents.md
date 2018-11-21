@@ -35,7 +35,7 @@
 - [L2.6 Working with An ArrayList](L2.6_Working-with-An-ArrayList.md)
 - [L2.7 Quiz: Working with An ArrayList](L2.7_Quiz-Working-with-An-ArrayList.md)
 - [L2.8 Quiz: Verify Array Elements with Log Messages](L2.8_Quiz-Verify-Array-Elements-with-Log-Messages.md)
-- [L2.9 Quiz: Verify Array Elements with Log Messages](L2.9_Quiz-Verify-Array-Elements-with-Log-Messages.md)
+- [L2.9 Add Text Views to the Layout Based on the List](L2.9_Add-Text-Views-to-the-Layout-Based-on-the-List.md)
 - [L2.10 Quiz: Verify Array Elements with Log Messages](L2.10_Quiz-Verify-Array-Elements-with-Log-Messages.md)
 - [L2.11 Quiz: Verify Array Elements with Log Messages](L2.11_Quiz-Verify-Array-Elements-with-Log-Messages.md)
 
