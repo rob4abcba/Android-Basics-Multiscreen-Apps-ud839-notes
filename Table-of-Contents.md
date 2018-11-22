@@ -37,7 +37,10 @@
 - [L2.8 Quiz: Verify Array Elements with Log Messages](L2.8_Quiz-Verify-Array-Elements-with-Log-Messages.md)
 - [L2.9 Add Text Views to the Layout Based on the List](L2.9_Add-Text-Views-to-the-Layout-Based-on-the-List.md)
 - [L2.10 Quiz: Verify Array Elements with Log Messages](L2.10_Quiz-Verify-Array-Elements-with-Log-Messages.md)
-- [L2.11 Quiz: Verify Array Elements with Log Messages](L2.11_Quiz-Verify-Array-Elements-with-Log-Messages.md)
+- [L2.11 View Recycling](L2.11_View-Recycling.md)
+- [L2.12 View Recycling](L2.12_View-Recycling.md)
+- [L2.13 View Recycling](L2.13_View-Recycling.md)
+- [L2.14 View Recycling](L2.14_View-Recycling.md)
 
 
 
