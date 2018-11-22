@@ -45,7 +45,7 @@
 - [L2.16 View Recycling](L2.14_View-Recycling.md)
 - [L2.17 Switch to Using a ListView and Adapter Quiz](L2.17_Switch-to-Using-a-ListView-and-Adapter-Quiz.md)
 - [L2.18 View Recycling](L2.14_View-Recycling.md)
-- [L2.19 View Recycling](L2.14_View-Recycling.md)
+- [L2.19 ListView and ArrayAdapter Code](L2.19_ListView-and-ArrayAdapter-Code.md)
 - [L2.20 View Recycling](L2.14_View-Recycling.md)
 - [L2.21 View Recycling](L2.14_View-Recycling.md)
 - [L2.22 View Recycling](L2.14_View-Recycling.md)
